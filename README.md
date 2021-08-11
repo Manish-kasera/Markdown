@@ -6,6 +6,7 @@
 #### Heading 4
 ##### Heading 5
 
+### horizontal Rule
 ---
 ---
 
@@ -19,7 +20,10 @@ This is **bold**
 
 This is __bold__
 
+## Strikethrough
 ~~Strike~~  
+
+## Mix
 
 _This text is **bold** ~~strike~~ and whole line is italic_
 
